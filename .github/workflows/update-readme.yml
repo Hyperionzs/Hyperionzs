@@ -27,7 +27,7 @@ jobs:
 
       - name: Update language statistics
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: python scripts/update_language_stats.py
 
       - name: Commit and push changes
