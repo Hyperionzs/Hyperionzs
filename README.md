@@ -79,13 +79,19 @@
 
 ### 📊 Most Used Language
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Hyperionzs&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Profile Trophies
+<div align=center>
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Hyperionzs&show_icons=true&locale=en&layout=compact&theme=radical)]()
+
+💡 **Primary Language: Dart**
+
+Most of my projects are written in **Dart**, with significant experience in Dart, C++, Python as well. I focus on building efficient and scalable applications across different domains.
+
+</div>
+
+### 🏆 Profile Trophies
 
 <div align=center>
  
