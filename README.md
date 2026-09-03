@@ -87,7 +87,7 @@
 
 💡 **Primary Language: Dart**
 
-Most of my projects are written in **Dart**, with significant experience in Dart, C++, Python as well. I focus on building efficient and scalable applications across different domains.
+Most of my projects are written in **Dart**, with significant experience in Dart, JavaScript, C++ as well. I focus on building efficient and scalable applications across different domains.
 
 </div>
 
